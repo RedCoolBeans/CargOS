@@ -7,6 +7,10 @@ This repository functions as the "entrypoint" for the actual repositories that
 contain the CargOS sources. Please refer to the section below for more information
 on them.
 
+## Documentation
+
+Documentation on how to install and use CargOS can be found in [the wiki](https://github.com/RedCoolBeans/CargOS/wiki).
+
 ## Subprojects
 
 CargOS itself is just the bare minimum based on [Busybox](http://www.busybox.net/) with
