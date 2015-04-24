@@ -3,6 +3,8 @@
 [CargOS](http://www.cargos.io/) is a minimal operating system intended to provide a thin layer between
 the [Docker](https://www.docker.io/) daemon and the hardware (phsyical or virtual).
 
+It's a no-nonsense operating system intended for one purpose, and one purpose only: to run Docker. It's kept minimal and simple without any tools or services that get in your way like Systemd.
+
 This repository functions as the "entrypoint" for the actual repositories that
 contain the CargOS sources. Please refer to the section below for more information
 on them.
