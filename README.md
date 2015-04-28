@@ -1,6 +1,6 @@
 # CargOS
 
-[CargOS](http://www.cargos.io/) is a minimal operating system intended to provide a thin layer between
+[CargOS](https://www.cargos.io/) is a minimal operating system intended to provide a thin layer between
 the [Docker](https://www.docker.io/) daemon and the hardware (phsyical or virtual).
 
 It's a no-nonsense operating system intended for one purpose, and one purpose only: to run Docker. It's kept minimal and simple without any tools or services that get in your way like Systemd.
@@ -24,4 +24,4 @@ via pkgsrc.
 
 ## Downloading
 
-The latest release of CargOS will always be available via the [CargOS homepage](http://www.cargos.io/).
+The latest release of CargOS will always be available via the [CargOS homepage](https://www.cargos.io/).
